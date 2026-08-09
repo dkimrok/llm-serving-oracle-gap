@@ -1,0 +1,7 @@
+slice_id,service,start_ms,n,opred_lat,opred_ttft,sjfpred_lat,sjfpred_ttft,plan_obj,plan_bound,plan_status,pred_mae,pred_bias,solve_s,warm_applied
+conv_r0.3_o0_n200,conv,46800000,200,9808,6106,10517,6815,6260.999999999976,4852.0,Time limit reached,118.1,-74.1,1084.6,True
+conv_r0.3_o20_n200,conv,48000000,200,7312,4505,7505,4698,6116.000000000511,5012.0,Time limit reached,90.9,-27.8,978.5,True
+conv_r0.6_o0_n200,conv,93600000,200,9234,5930,10861,7557,6719.999999999948,5629.0,Time limit reached,106.2,-54.4,982.3,True
+conv_r0.6_o20_n200,conv,94800000,200,8134,5337,9175,6378,6991.0,5520.0,Time limit reached,93.2,-37.8,989.6,True
+conv_r0.9_o0_n200,conv,144000000,200,8443,5532,9280,6369,6438.0,5429.0,Time limit reached,74.3,-38.9,990.2,True
+conv_r0.9_o20_n200,conv,145200000,200,6520,4322,7839,5641,6212.99999999727,5474.0,Time limit reached,67.0,-9.8,966.4,True
