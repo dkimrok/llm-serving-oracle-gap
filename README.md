@@ -1,5 +1,7 @@
 # How Far from Optimal? — Oracle Optimality-Gap Benchmark for LLM Serving Schedulers
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21862821.svg)](https://doi.org/10.5281/zenodo.21862821)
+
 Code, ledgers, and oracle schedules for the paper *"How Far from Optimal?
 Measuring and Decomposing the Optimality Gap of LLM Serving Schedulers"*
 (under submission, ML for Systems Workshop @ NeurIPS 2026).
